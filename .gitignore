@@ -1,3 +1,7 @@
+
+# CUSTOM
+3_clean_datasets/visas.csv
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

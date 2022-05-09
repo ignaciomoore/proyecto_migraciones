@@ -1,0 +1,17 @@
+activity,activity_id
+Dueña de Casa,1
+Empleado,2
+Empleado Doméstico,3
+Empresario o Patrón,4
+Estudiante,5
+Inactivo,6
+Jubilado o Pensionado,7
+No Informa,8
+Obrero o Jornalero,9
+Otras Actividades,10
+Religioso,11
+Rentista,12
+Sin Actividad,13
+Trabajador por Cuenta Propia,14
+Tripulante,15
+NaN,0

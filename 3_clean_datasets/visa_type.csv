@@ -1,0 +1,9 @@
+visa_type,visa_type_id
+Estudiante,1
+Permanencia Definitiva,2
+Permanencia Definitiva Por Gracia,3
+Sin Beneficio,4
+Sujeta A Contrato,5
+Temp. Acuerdo Residencia Mercosur,6
+Temporaria,7
+NaN,0
